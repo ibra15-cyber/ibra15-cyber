@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ibra15-cyber
 - 👀 I’m interested in coding and building stuff
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate with top developers in the futer
+- 💞️ I’m looking to collaborate with top developers in the future.
+- I am also passionate about security.
 
 
 <!---
